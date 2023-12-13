@@ -11,7 +11,9 @@ Our objective is to reconstruct the 3D geometry of these objects utilizing the g
 훈련된 물체 예시:
 
 ### Materials:
-##### ![materials](https://github.com/jungihong10/NeRF/assets/68961983/ddfa02cc-9c21-42e6-a4c9-1ff3033e7309)![ship](https://github.com/jungihong10/NeRF/assets/68961983/eeb0f193-fdfb-465d-bb55-12fc966feb47)
+##### ![materials](https://github.com/jungihong10/NeRF/assets/68961983/ddfa02cc-9c21-42e6-a4c9-1ff3033e7309)
+### Ship:
+##### ![ship](https://github.com/jungihong10/NeRF/assets/68961983/eeb0f193-fdfb-465d-bb55-12fc966feb47)
 ### Mic:
 ##### ![mic](https://github.com/jungihong10/NeRF/assets/68961983/a8cc19fe-fc9a-4a73-80cc-3dd682f5cfb7)
 ### Lego:
