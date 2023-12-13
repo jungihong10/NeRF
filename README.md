@@ -2,13 +2,13 @@
 NeRF Synthetic dataset 사용하여 RGBA 중 alpha channel 만 사용해서 색 없이 물체의 3D 모습을 복원해보기
 Computer Vision
 
-Dataset:
+## Dataset:
 Utilize the NeRF Synthetic dataset released in the NeRF
 
-Objective:
+## Objective:
 Our objective is to reconstruct the 3D geometry of these objects utilizing the given images and camera poses. In this assignment, we will focus solely on the alpha channel, disregarding color, to infer the 3D structure from the images.
 
-훈련된 물체 예시:
+# 훈련된 물체 예시:
 
 ### Materials:
 ##### ![materials](https://github.com/jungihong10/NeRF/assets/68961983/ddfa02cc-9c21-42e6-a4c9-1ff3033e7309)
